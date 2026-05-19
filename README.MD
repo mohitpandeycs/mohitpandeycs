@@ -20,4 +20,3 @@ const mohit = {
   status: "Open for Work >⩊< "
 }
 ```
----
