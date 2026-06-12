@@ -5,7 +5,6 @@
 AI/ML Engineer</em></p>
 
 [![Connect](https://img.shields.io/badge/More%20About%20Me%20👇-8A2BE2)](https://www.github.com/mohitpandeycs)
-
 [![LinkedIn: mohitpandeycs](https://img.shields.io/badge/LinkedIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohitpandeycs/)](https://www.linkedin.com/in/mohitpandeycs/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohitpandey.me-000?style=flat-square)](https://mohitpandey.me)
 
